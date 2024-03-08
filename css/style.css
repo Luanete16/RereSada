@@ -238,8 +238,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("/renato/img/consultorio.jpg") top center;
-  background-size: ;
+  background: url("../img/consultorio.jpg") top center;
 }
 
 #hero:before {
